@@ -1,0 +1,16 @@
+collection\exceptions\NonexistentEntityException.class
+controller\Servlet.class
+collection\ClientesTelefonos.class
+collection\ClientesTelefonos_.class
+controller\Fachada.class
+collection\Activista.class
+collection\Problema_.class
+collection\Problema$Estado.class
+collection\exceptions\IllegalOrphanException.class
+collection\Cliente_.class
+collection\exceptions\PreexistingEntityException.class
+collection\IniciarServer.class
+collection\Activista_.class
+controller\CorsFilter.class
+collection\Problema.class
+collection\Cliente.class
